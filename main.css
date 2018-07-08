@@ -1,0 +1,24 @@
+.imgcontainer{
+	color:black 
+}
+.container{
+    background-color: powderblue;
+    width: 330px;
+    text-align: center;
+    height: 144px;
+}
+.inputbox
+{
+	padding:5px;
+	margin-left:2px;
+	color:white;
+	background-color:black;
+}
+.hkl
+{
+	
+      padding: 3px;
+    height: 29px;
+    width: 89px;
+    margin-left: 52px;
+}
